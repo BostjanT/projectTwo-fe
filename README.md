@@ -1,4 +1,4 @@
-#SkillUp Mentor - Geotagging application
+# SkillUp Mentor - Geotagging application
 
 Frontend part of full-stack application that allows users to upload an image, mark the exact location on the Google map where the image was taken. 
 Users that are registered can try to guess where the image was taken by placing a pin on the Google map. The app then returns how accurately
@@ -20,7 +20,7 @@ the user chose the location.
     Git
     Github
 
-#How To Use
+# How To Use
 Installation
 
 Clone this repository and run:
